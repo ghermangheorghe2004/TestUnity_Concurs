@@ -1,6 +1,6 @@
 # TestUnity_Concurs
-Unity Concurs Test
-Salut!Particip la concursul pentru InternShip ca developer si aici este testul meu.
+
+>>Salut!Particip la concursul pentru InternShip ca developer si aici este testul meu.
 Mai jos sunt enumerate lucruruile ce sunt implimentate in joc.
 >Sunt 5 nivele in total si creste treptat in dificultate.
 >Am un raft si 5 iteme pe care le-am creat in Blender.Jocul este 2D,din blender am extras doar PNG-uri pentru a da impresia de 3D in joc.
